@@ -1,0 +1,15 @@
+.button {
+	border: 0;
+}
+
+.tree_table_head {
+	font-weight: bold;
+}
+
+.add_space {
+	height: 5px;
+}
+
+.add_space:hover {
+	background-color: #4BEC4E;
+}

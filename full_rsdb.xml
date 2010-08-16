@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<station_db version="2008-10-02T02:48:59Z" format_version="2.0" station_count="41">
+	<database_info>
+		<format_version>2.0</format_version>
+		<name>vTuner</name>
+<server_url>http://www.radio579.com/setupapp/bluewin/asp/rsdb/update.asp</server_url>
+		<service>Basic e1139</service>	</database_info>
+	<station_list>
+<station>
+<id>440002</id>
+<station_name>Log on to radio579.com</station_name><description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440002.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440003</id>
+<station_name>001b9e22e9ec is the ID# for your Media Adapter</station_name><description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440003.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440004</id>
+<station_name>What is Super Guide?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440004.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440005</id>
+<station_name>What is included in Super Guide?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440005.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440006</id>
+<station_name>How do I buy Super Guide?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440006.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440007</id>
+<station_name>What is Trial Super Guide?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440007.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440008</id>
+<station_name>What is Basic Guide?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440008.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440009</id>
+<station_name>Why don't I have Super Guide any more?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440009.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440010</id>
+<station_name>How can I get Super Guide back again?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440010.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440011</id>
+<station_name>What is buffering?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440011.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440012</id>
+<station_name>Why do stations not work sometimes?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440012.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440013</id>
+<station_name>Why do stations disappear from my list?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440013.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440014</id>
+<station_name>Why isn't my favorite Internet radio station on the station list?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440014.mp3</url><mime_type>m3u</mime_type>
+</station>
+<station>
+<id>440015</id>
+<station_name>How do I ask other questions?</station_name>
+<description></description>
+<bw>24</bw>
+<url>http://www.radio246.com/setupapp/bluewin/mp3/440015.mp3</url><mime_type>m3u</mime_type>
+</station>
+		<station>
+			<id>24</id>
+			<station_name>KWUR Washington Univ.</station_name>
+			<description>The ultimate variety with folk, rap/hip-hop, classical, blues, dance, metal, etc.</description>
+			<bw>260</bw>
+			<url>http://kwurmail.wustl.edu:8000/128</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>90</id>
+			<station_name>AFN American Freedom Network</station_name>
+			<description>KHNC 1360AM THE LION Conservative News Talk Radio</description>
+			<bw>24</bw>
+			<url>http://64.72.126.49:3030/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>296</id>
+			<station_name>SnakeNet Metal Radio</station_name>
+			<description>SnakeNet Heavy Metal Radio, an affiliate of OnlineMusic.Com, is an internet only heavy metal radio station broadcasting in Shoutcast MP3 Audio, Real Audio and Windows Media Format (asf).</description>
+			<bw>128</bw>
+			<url>http://205.188.215.231:8016/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>381</id>
+			<station_name>WREK Georgia Tech</station_name>
+			<description>Georgia Tech&apos;s wildly diverse WREK plays jazz, gospel, reggae, classical, classic rock, heavy metal and much more.</description>
+			<bw>128</bw>
+			<url>http://slack.wrek.gatech.edu:8000/wrek_live-128kb</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>688</id>
+			<station_name>KKJZ kjazz NPR</station_name>
+			<description>KLON-FM 88.1 is a 24 hour public, member-supported jazz, blues and information station serving Los Angeles and Orange Counties and distributed nationwide via cable and satellite access.</description>
+			<bw>64</bw>
+			<url>http://www.live365.com/play/312920</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>952</id>
+			<station_name>CFMB</station_name>
+			<description>Radio Montreal broadcasts diverse programming in over twenty languages.</description>
+			<bw>32</bw>
+			<url>http://www.live365.com/play/cfmb</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>1338</id>
+			<station_name>Radio Silver Rain</station_name>
+			<description>Our broadcast is generally based on the popular music: the Best European Hits of the 90&apos;s, most famous retro-tunes of the 50&apos;s and the 60&apos;s, disco of the 70&apos;s and the 80&apos;s, and some less techno.</description>
+			<bw>24</bw>
+			<url>http://radio.silver.ru:8000/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>3487</id>
+			<station_name>DubLab</station_name>
+			<description>Dedicated to the growth of new and positive music.  Dub, jazz, soul, funk, hip-hop, drum &amp; bass, house and more.</description>
+			<bw>128</bw>
+			<url>http://205.188.215.225:8008/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>4177</id>
+			<station_name>WWJC The Light</station_name>
+			<description>Your Home for Solid Gospal Music</description>
+			<bw>64</bw>
+			<url>http://74.213.164.94:8000</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>4392</id>
+			<station_name>WBHM NPR</station_name>
+			<description>classical music streaming to the Internet from Birmingham, Alabama with a touch of NPR here and there.</description>
+			<bw>56</bw>
+			<url>http://www.wbhm.org:8000/live</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>4540</id>
+			<station_name>Bide et Musique</station_name>
+			<description>Une soirée sans thème, exclusivement dansante, avec musicalement un best of des différentes thématiques de Bide&amp;Musique (80s, D.A, Bide, Musique), ça vous dit ?</description>
+			<bw>128</bw>
+			<url>http://relay2.bide-et-musique.com:9100/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>4598</id>
+			<station_name>ACB Radio Mainstream</station_name>
+			<description>ACB Radio is radio made by the blind for the blind.</description>
+			<bw>24</bw>
+			<url>http://acbradio.org:6246/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>4615</id>
+			<station_name>Radio Universidad de Chile</station_name>
+			<description></description>
+			<bw>24</bw>
+			<url>http://stream.radio.uchile.cl:8000/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>4899</id>
+			<station_name>Deutschlandradio Kultur</station_name>
+			<description>Kultur ist überall</description>
+			<bw>48</bw>
+			<url>http://dradio-mp3.t-bn.de/dlr_live</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>4938</id>
+			<station_name>Oldie Radio</station_name>
+			<description>Oldies rund um die Uhr</description>
+			<bw>128</bw>
+			<url>http://www.oldie-radio.de:8000/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>5448</id>
+			<station_name>WBRS Brandeis Univ.</station_name>
+			<description>WBRS is Brandeis University&apos;s noncommercial radio station. WBRS programming supports an all-genre format, with a policy of playing everything that gets sent to us.</description>
+			<bw>40</bw>
+			<url>http://www.live365.com/play/289801</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>5617</id>
+			<station_name>KSBR</station_name>
+			<description>KSBR&apos;s primary format is contemporary jazz, but it also has weekend specialty shows featuring other musical styles like reggae, folk, ragtime, rock, Latin jazz, blues, and hip-hop music.</description>
+			<bw>64</bw>
+			<url>http://216.235.81.101:15006/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>5790</id>
+			<station_name>Bass Drive</station_name>
+			<description>24x7 Drum &amp; Bass radio, featuring broadcasts from DJs and venues around the globe</description>
+			<bw>128</bw>
+			<url>http://aol.streams.bassdrive.com:8012</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>6786</id>
+			<station_name>Accent Radio Network(ARN)</station_name>
+			<description>Promoting a God-centered view of health and healing.</description>
+			<bw>32</bw>
+			<url>http://live.str3am.com:2150/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>10304</id>
+			<station_name>WPON</station_name>
+			<description>The best talk in town &amp; Detroit&apos;s rare oldies</description>
+			<bw>24</bw>
+			<url>http://audio.birach.com:9010/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>11441</id>
+			<station_name>KNAK Radio for the Family</station_name>
+			<description>Restoring God, Family and Country</description>
+			<bw>24</bw>
+			<url>http://nyc01.egihosting.com:6224/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>12210</id>
+			<station_name>Ef-Ei</station_name>
+			<description></description>
+			<bw>96</bw>
+			<url>http://159.148.205.66:8000</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>12492</id>
+			<station_name>Sky.fm Modern Jazz</station_name>
+			<description>Sky.fm is an Internet radio network offering a variety of channels for your enjoyment</description>
+			<bw>96</bw>
+			<url>http://205.188.215.227:8008/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>12493</id>
+			<station_name>Sky.fm Mostly Classical</station_name>
+			<description>The Mostly Classical channel is our main relaxation channel. You&apos;ll find an excellent compilation of classical composers and contemporary works. Typical composers include Bach, Mozart, and Vivaldi.</description>
+			<bw>96</bw>
+			<url>http://scfire-ntc-aa03.stream.aol.com:80/stream/1006</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>12513</id>
+			<station_name>Digitally Imported Chillout</station_name>
+			<description>Digitally Imported Radio is a streaming radio station dedicated to playing the best European Hi-NRG, Techno, and Trance music</description>
+			<bw>96</bw>
+			<url>http://scfire-chi-aa01.stream.aol.com:80/stream/1035</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>12757</id>
+			<station_name>Pro FM</station_name>
+			<description>Pro Fm is a web dance radio station located in the Netherlands.</description>
+			<bw>192</bw>
+			<url>http://streamserver1.udis.nl:8200/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>12874</id>
+			<station_name>KKJL K Jewel</station_name>
+			<description></description>
+			<bw>32</bw>
+			<url>http://franklin.tbo.net:8018/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>12997</id>
+			<station_name>KHCR Joy FM</station_name>
+			<description>Joy FM is a radio ministry that uses Contemporary Christian Music to share the love of Jesus Christ.  Our desire is that listeners will find Jesus in all we say and do.</description>
+			<bw>32</bw>
+			<url>http://www.live365.com/play/293486</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>13020</id>
+			<station_name>WLVF Gospel</station_name>
+			<description>A gospel radio station located in Haines City, Florida. As a ministry of Landmark Baptist Church, WLVF reaches the Central Florida area via radio waves and the entire world through the internet.</description>
+			<bw>32</bw>
+			<url>http://www.live365.com/play/287833</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>13032</id>
+			<station_name>WXHL Reach FM</station_name>
+			<description>An FM station that appeals to listeners important to our succeB. We did it with the fastest growing music segment and format in America today, Contemporary Christian Music.</description>
+			<bw>16</bw>
+			<url>http://www.live365.com/play/292542</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>13093</id>
+			<station_name>MikeyRadio</station_name>
+			<description>DJ Mikey Mike Plays The Best R&amp;amp;B/Soul Music All Day, All Nite 24-7-365</description>
+			<bw>24</bw>
+			<url>http://stream.mikeyradio.com:8000/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>13417</id>
+			<station_name>Radio Paradise</station_name>
+			<description>Eclectic intelligent rock - music info &amp;amp; listener community at radioparadise.com</description>
+			<bw>128</bw>
+			<url>http://scfire-chi0l-2.stream.aol.com:80/stream/1048</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>13490</id>
+			<station_name>New Orleans Radio</station_name>
+			<description>New Orleans Radio was created to produce and deliver regional custom music, information, and original programming to the global Internet community on a continuous 24-hour-per-day, 7-day-per-week</description>
+			<bw>96</bw>
+			<url>http://70.84.35.130:8002/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>13724</id>
+			<station_name>Nashville FM</station_name>
+			<description>nonstop hot new country</description>
+			<bw>128</bw>
+			<url>http://broadband.nashvillefm.net:5502/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>14523</id>
+			<station_name>The 1920s Radio Network</station_name>
+			<description>We play 20&apos;s 30&apos;s 40&apos;s big band and old time radio 24/7.</description>
+			<bw>64</bw>
+			<url>http://tess.fast-serv.com:8570/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>16070</id>
+			<station_name>Sky.fm Best of the 80s</station_name>
+			<description>SKY.fm plays your favorite 80s hits 24 hours a day. Catch memorable hits from artists such as The Police, Cyndi Lauper, Duran Duran, Madonna, Depeche Mode</description>
+			<bw>96</bw>
+			<url>http://scfire-chi-aa02.stream.aol.com:80/stream/1013</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>16406</id>
+			<station_name>Klara Continuo</station_name>
+			<description>Klara continuo zendt non-stop de beste stukken van de grootste meesters in de meest beklijvende uitvoeringen uit.</description>
+			<bw>96</bw>
+			<url>http://mp3.streampower.be/klaracontinuo-high</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>17482</id>
+			<station_name>WCUR West Chester University</station_name>
+			<description>Radio for West Chester University.</description>
+			<bw>80</bw>
+			<url>http://144.26.57.251:8000</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>17926</id>
+			<station_name>WORC Power</station_name>
+			<description>WORC-AM, the only 100% 24 hour 7 day Hispanic radio station in Central/Eastern Massachusetts.</description>
+			<bw>24</bw>
+			<url>http://70.85.72.122:8100/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>18213</id>
+			<station_name>Radio Luxembourg</station_name>
+			<description>Radio Luxembourg, The Best In Classic Rock. The Legend Is Back with your favourite DJ&apos;s</description>
+			<bw>128</bw>
+			<url>http://s8.mediastreaming.it:7050/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+		<station>
+			<id>18265</id>
+			<station_name>Pan African Allstars Radio</station_name>
+			<description>For the best in African Music on the Internet, browse through our website. Check Out our African Music DVDs. From North to South and East To West we bring you the best Music from the continent.</description>
+			<bw>48</bw>
+			<url>http://tess.fast-serv.com:8580/</url>
+			<mime_type>m3u</mime_type>
+		</station>
+	</station_list>
+	<directory_list>
+		<dir name="Internet Radio" subdir_count="3" station_count="0" >
+			<dir name="Authentication Error 1139" subdir_count="0" station_count="1" >
+				<station>12049</station>
+			</dir>
+			<dir name="Genres" subdir_count="26" station_count="0" > 
+				<dir name="Alternative" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>13417</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>13417</station>
+					</dir>
+				</dir>
+				<dir name="Ambient" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>12513</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>12513</station>
+					</dir>
+				</dir>
+				<dir name="Big Band" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>14523</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>14523</station>
+					</dir>
+				</dir>
+				<dir name="Blues" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>13490</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>13490</station>
+					</dir>
+				</dir>
+				<dir name="Christian Contemporary" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="3" > 
+						<station>12997</station>
+						<station>4177</station>
+						<station>13032</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="3" >
+						<station>12997</station>
+						<station>4177</station>
+						<station>13032</station>
+					</dir>
+				</dir>
+				<dir name="Classic Rock" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>18213</station>
+					</dir>
+				<dir name="Luxembourg" subdir_count="0" station_count="1" >
+						<station>18213</station>
+					</dir>
+				</dir>
+				<dir name="Classical" subdir_count="4" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="4" > 
+						<station>4899</station>
+						<station>16406</station>
+						<station>12493</station>
+						<station>4392</station>
+					</dir>
+				<dir name="Belgium" subdir_count="0" station_count="1" >
+						<station>16406</station>
+					</dir>
+				<dir name="Germany" subdir_count="0" station_count="1" >
+						<station>4899</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="2" >
+						<station>12493</station>
+						<station>4392</station>
+					</dir>
+				</dir>
+				<dir name="College" subdir_count="3" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="5" > 
+						<station>24</station>
+						<station>4615</station>
+						<station>5448</station>
+						<station>17482</station>
+						<station>381</station>
+					</dir>
+				<dir name="Chile" subdir_count="0" station_count="1" >
+						<station>4615</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="4" >
+						<station>24</station>
+						<station>5448</station>
+						<station>17482</station>
+						<station>381</station>
+					</dir>
+				</dir>
+				<dir name="Country" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>13724</station>
+					</dir>
+				<dir name="Netherlands" subdir_count="0" station_count="1" >
+						<station>13724</station>
+					</dir>
+				</dir>
+				<dir name="Dance" subdir_count="3" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="2" > 
+						<station>12757</station>
+						<station>1338</station>
+					</dir>
+				<dir name="Netherlands" subdir_count="0" station_count="1" >
+						<station>12757</station>
+					</dir>
+				<dir name="Russia" subdir_count="0" station_count="1" >
+						<station>1338</station>
+					</dir>
+				</dir>
+				<dir name="Electronica" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="2" > 
+						<station>5790</station>
+						<station>3487</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="2" >
+						<station>5790</station>
+						<station>3487</station>
+					</dir>
+				</dir>
+				<dir name="Gospel" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="2" > 
+						<station>13093</station>
+						<station>13020</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="2" >
+						<station>13093</station>
+						<station>13020</station>
+					</dir>
+				</dir>
+				<dir name="Hard Rock" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>296</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>296</station>
+					</dir>
+				</dir>
+				<dir name="Jazz" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="5" > 
+						<station>688</station>
+						<station>5617</station>
+						<station>13093</station>
+						<station>13490</station>
+						<station>12492</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="5" >
+						<station>688</station>
+						<station>5617</station>
+						<station>13093</station>
+						<station>13490</station>
+						<station>12492</station>
+					</dir>
+				</dir>
+				<dir name="Latin Hits" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>17926</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>17926</station>
+					</dir>
+				</dir>
+				<dir name="Oldies" subdir_count="3" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="4" > 
+						<station>12874</station>
+						<station>4938</station>
+						<station>16070</station>
+						<station>10304</station>
+					</dir>
+				<dir name="Germany" subdir_count="0" station_count="1" >
+						<station>4938</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="3" >
+						<station>12874</station>
+						<station>16070</station>
+						<station>10304</station>
+					</dir>
+				</dir>
+				<dir name="Public" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="2" > 
+						<station>688</station>
+						<station>4392</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="2" >
+						<station>688</station>
+						<station>4392</station>
+					</dir>
+				</dir>
+				<dir name="RnB" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>13093</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>13093</station>
+					</dir>
+				</dir>
+				<dir name="Rock" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>13417</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>13417</station>
+					</dir>
+				</dir>
+				<dir name="Top 40" subdir_count="3" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="2" > 
+						<station>4540</station>
+						<station>12210</station>
+					</dir>
+				<dir name="France" subdir_count="0" station_count="1" >
+						<station>4540</station>
+					</dir>
+				<dir name="Latvia" subdir_count="0" station_count="1" >
+						<station>12210</station>
+					</dir>
+				</dir>
+				<dir name="Variety" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>952</station>
+					</dir>
+				<dir name="Canada" subdir_count="0" station_count="1" >
+						<station>952</station>
+					</dir>
+				</dir>
+				<dir name="World" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>18265</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>18265</station>
+					</dir>
+				</dir>
+				<dir name="News" subdir_count="3" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="2" > 
+						<station>4598</station>
+						<station>4899</station>
+					</dir>
+				<dir name="Germany" subdir_count="0" station_count="1" >
+						<station>4899</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>4598</station>
+					</dir>
+				</dir>
+				<dir name="News Talk" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>11441</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>11441</station>
+					</dir>
+				</dir>
+				<dir name="Religious" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="2" > 
+						<station>6786</station>
+						<station>12997</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="2" >
+						<station>6786</station>
+						<station>12997</station>
+					</dir>
+				</dir>
+				<dir name="Talk" subdir_count="2" station_count="0" >
+					<dir name="All Stations" subdir_count="0" station_count="1" > 
+						<station>90</station>
+					</dir>
+				<dir name="United States" subdir_count="0" station_count="1" >
+						<station>90</station>
+					</dir>
+				</dir>
+
+				</dir>
+			<dir name="Countries" subdir_count="10" station_count="0" >
+				<dir name="Europe" subdir_count="7" station_count="0" > 
+					<dir name="Belgium" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>16406</station>
+						</dir>
+						<dir name="Classical" subdir_count="0" station_count="1" > 
+							<station>16406</station>
+						</dir>
+					</dir>
+					<dir name="France" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>4540</station>
+						</dir>
+						<dir name="Top 40" subdir_count="0" station_count="1" > 
+							<station>4540</station>
+						</dir>
+					</dir>
+					<dir name="Germany" subdir_count="4" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="2" > 
+							<station>4899</station>
+							<station>4938</station>
+						</dir>
+						<dir name="Classical" subdir_count="0" station_count="1" > 
+							<station>4899</station>
+						</dir>
+						<dir name="Oldies" subdir_count="0" station_count="1" > 
+							<station>4938</station>
+						</dir>
+						<dir name="News" subdir_count="0" station_count="1" > 
+							<station>4899</station>
+						</dir>
+					</dir>
+					<dir name="Latvia" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>12210</station>
+						</dir>
+						<dir name="Top 40" subdir_count="0" station_count="1" > 
+							<station>12210</station>
+						</dir>
+					</dir>
+					<dir name="Luxembourg" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>18213</station>
+						</dir>
+						<dir name="Classic Rock" subdir_count="0" station_count="1" > 
+							<station>18213</station>
+						</dir>
+					</dir>
+					<dir name="Netherlands" subdir_count="3" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="2" > 
+							<station>13724</station>
+							<station>12757</station>
+						</dir>
+						<dir name="Country" subdir_count="0" station_count="1" > 
+							<station>13724</station>
+						</dir>
+						<dir name="Dance" subdir_count="0" station_count="1" > 
+							<station>12757</station>
+						</dir>
+					</dir>
+					<dir name="Russia" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>1338</station>
+						</dir>
+						<dir name="Dance" subdir_count="0" station_count="1" > 
+							<station>1338</station>
+						</dir>
+					</dir>
+				</dir>
+					<dir name="Internet Only" subdir_count="14" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="13" > 
+							<station>5790</station>
+							<station>12513</station>
+							<station>3487</station>
+							<station>13093</station>
+							<station>13724</station>
+							<station>13490</station>
+							<station>12757</station>
+							<station>13417</station>
+							<station>16070</station>
+							<station>12492</station>
+							<station>12493</station>
+							<station>296</station>
+							<station>14523</station>
+						</dir>
+						<dir name="Alternative" subdir_count="0" station_count="1" > 
+							<station>13417</station>
+						</dir>
+						<dir name="Ambient" subdir_count="0" station_count="1" > 
+							<station>12513</station>
+						</dir>
+						<dir name="Big Band" subdir_count="0" station_count="1" > 
+							<station>14523</station>
+						</dir>
+						<dir name="Blues" subdir_count="0" station_count="1" > 
+							<station>13490</station>
+						</dir>
+						<dir name="Classical" subdir_count="0" station_count="1" > 
+							<station>12493</station>
+						</dir>
+						<dir name="Country" subdir_count="0" station_count="1" > 
+							<station>13724</station>
+						</dir>
+						<dir name="Dance" subdir_count="0" station_count="1" > 
+							<station>12757</station>
+						</dir>
+						<dir name="Electronica" subdir_count="0" station_count="2" > 
+							<station>5790</station>
+							<station>3487</station>
+						</dir>
+						<dir name="Gospel" subdir_count="0" station_count="1" > 
+							<station>13093</station>
+						</dir>
+						<dir name="Hard Rock" subdir_count="0" station_count="1" > 
+							<station>296</station>
+						</dir>
+						<dir name="Jazz" subdir_count="0" station_count="3" > 
+							<station>13093</station>
+							<station>13490</station>
+							<station>12492</station>
+						</dir>
+						<dir name="Oldies" subdir_count="0" station_count="1" > 
+							<station>16070</station>
+						</dir>
+						<dir name="Rock" subdir_count="0" station_count="1" > 
+							<station>13417</station>
+						</dir>
+					</dir>
+				<dir name="North America" subdir_count="20" station_count="0" > 
+					<dir name="Canada" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>952</station>
+						</dir>
+						<dir name="Variety" subdir_count="0" station_count="1" > 
+							<station>952</station>
+						</dir>
+					</dir>
+					<dir name="United States" subdir_count="18" station_count="0" > 
+					<dir name="Alabama" subdir_count="3" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>4392</station>
+						</dir>
+						<dir name="Classical" subdir_count="0" station_count="1" > 
+							<station>4392</station>
+						</dir>
+						<dir name="Public" subdir_count="0" station_count="1" > 
+							<station>4392</station>
+						</dir>
+					</dir>
+					<dir name="California" subdir_count="7" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="5" > 
+							<station>3487</station>
+							<station>12874</station>
+							<station>688</station>
+							<station>5617</station>
+							<station>13417</station>
+						</dir>
+						<dir name="Alternative" subdir_count="0" station_count="1" > 
+							<station>13417</station>
+						</dir>
+						<dir name="Electronica" subdir_count="0" station_count="1" > 
+							<station>3487</station>
+						</dir>
+						<dir name="Jazz" subdir_count="0" station_count="2" > 
+							<station>688</station>
+							<station>5617</station>
+						</dir>
+						<dir name="Oldies" subdir_count="0" station_count="1" > 
+							<station>12874</station>
+						</dir>
+						<dir name="Public" subdir_count="0" station_count="1" > 
+							<station>688</station>
+						</dir>
+						<dir name="Rock" subdir_count="0" station_count="1" > 
+							<station>13417</station>
+						</dir>
+					</dir>
+					<dir name="Colorado" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>90</station>
+						</dir>
+						<dir name="Talk" subdir_count="0" station_count="1" > 
+							<station>90</station>
+						</dir>
+					</dir>
+					<dir name="Florida" subdir_count="3" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="2" > 
+							<station>6786</station>
+							<station>13020</station>
+						</dir>
+						<dir name="Gospel" subdir_count="0" station_count="1" > 
+							<station>13020</station>
+						</dir>
+						<dir name="Religious" subdir_count="0" station_count="1" > 
+							<station>6786</station>
+						</dir>
+					</dir>
+					<dir name="Georgia" subdir_count="3" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="2" > 
+							<station>18265</station>
+							<station>381</station>
+						</dir>
+						<dir name="College" subdir_count="0" station_count="1" > 
+							<station>381</station>
+						</dir>
+						<dir name="World" subdir_count="0" station_count="1" > 
+							<station>18265</station>
+						</dir>
+					</dir>
+					<dir name="Illinois" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>5790</station>
+						</dir>
+						<dir name="Electronica" subdir_count="0" station_count="1" > 
+							<station>5790</station>
+						</dir>
+					</dir>
+					<dir name="Louisiana" subdir_count="3" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>13490</station>
+						</dir>
+						<dir name="Blues" subdir_count="0" station_count="1" > 
+							<station>13490</station>
+						</dir>
+						<dir name="Jazz" subdir_count="0" station_count="1" > 
+							<station>13490</station>
+						</dir>
+					</dir>
+					<dir name="Maryland" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>13032</station>
+						</dir>
+						<dir name="Christian Contemporary" subdir_count="0" station_count="1" > 
+							<station>13032</station>
+						</dir>
+					</dir>
+					<dir name="Massachusetts" subdir_count="3" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="2" > 
+							<station>5448</station>
+							<station>17926</station>
+						</dir>
+						<dir name="College" subdir_count="0" station_count="1" > 
+							<station>5448</station>
+						</dir>
+						<dir name="Latin Hits" subdir_count="0" station_count="1" > 
+							<station>17926</station>
+						</dir>
+					</dir>
+					<dir name="Michigan" subdir_count="4" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="2" > 
+							<station>13093</station>
+							<station>10304</station>
+						</dir>
+						<dir name="Gospel" subdir_count="0" station_count="1" > 
+							<station>13093</station>
+						</dir>
+						<dir name="Jazz" subdir_count="0" station_count="1" > 
+							<station>13093</station>
+						</dir>
+						<dir name="Oldies" subdir_count="0" station_count="1" > 
+							<station>10304</station>
+						</dir>
+					</dir>
+					<dir name="Minnesota" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>4177</station>
+						</dir>
+						<dir name="Christian Contemporary" subdir_count="0" station_count="1" > 
+							<station>4177</station>
+						</dir>
+					</dir>
+					<dir name="Missouri" subdir_count="4" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="2" > 
+							<station>12997</station>
+							<station>24</station>
+						</dir>
+						<dir name="Christian Contemporary" subdir_count="0" station_count="1" > 
+							<station>12997</station>
+						</dir>
+						<dir name="College" subdir_count="0" station_count="1" > 
+							<station>24</station>
+						</dir>
+						<dir name="Religious" subdir_count="0" station_count="1" > 
+							<station>12997</station>
+						</dir>
+					</dir>
+					<dir name="New York" subdir_count="5" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="4" > 
+							<station>12513</station>
+							<station>16070</station>
+							<station>12492</station>
+							<station>12493</station>
+						</dir>
+						<dir name="Ambient" subdir_count="0" station_count="1" > 
+							<station>12513</station>
+						</dir>
+						<dir name="Classical" subdir_count="0" station_count="1" > 
+							<station>12493</station>
+						</dir>
+						<dir name="Jazz" subdir_count="0" station_count="1" > 
+							<station>12492</station>
+						</dir>
+						<dir name="Oldies" subdir_count="0" station_count="1" > 
+							<station>16070</station>
+						</dir>
+					</dir>
+					<dir name="North Carolina" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>296</station>
+						</dir>
+						<dir name="Hard Rock" subdir_count="0" station_count="1" > 
+							<station>296</station>
+						</dir>
+					</dir>
+					<dir name="Pennsylvania" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>17482</station>
+						</dir>
+						<dir name="College" subdir_count="0" station_count="1" > 
+							<station>17482</station>
+						</dir>
+					</dir>
+					<dir name="Utah" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>11441</station>
+						</dir>
+						<dir name="News Talk" subdir_count="0" station_count="1" > 
+							<station>11441</station>
+						</dir>
+					</dir>
+					<dir name="Virginia" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>14523</station>
+						</dir>
+						<dir name="Big Band" subdir_count="0" station_count="1" > 
+							<station>14523</station>
+						</dir>
+					</dir>
+					<dir name="Washington, D.C." subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>4598</station>
+						</dir>
+						<dir name="News" subdir_count="0" station_count="1" > 
+							<station>4598</station>
+						</dir>
+					</dir>
+					</dir>
+				</dir>
+				<dir name="South America" subdir_count="1" station_count="0" > 
+					<dir name="Chile" subdir_count="2" station_count="0" > 
+						<dir name="All Stations" subdir_count="0" station_count="1" > 
+							<station>4615</station>
+						</dir>
+						<dir name="College" subdir_count="0" station_count="1" > 
+							<station>4615</station>
+						</dir>
+					</dir>
+				</dir>
+		</dir>
+<dir name="Help" subdir_count="0" station_count="14" >
+<station>440002</station>
+<station>440003</station>
+<station>440004</station>
+<station>440005</station>
+<station>440006</station>
+<station>440007</station>
+<station>440008</station>
+<station>440009</station>
+<station>440010</station>
+<station>440011</station>
+<station>440012</station>
+<station>440013</station>
+<station>440014</station>
+<station>440015</station>
+</dir>
+	</dir>
+</directory_list>
+</station_db>

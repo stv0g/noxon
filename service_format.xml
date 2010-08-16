@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+<ListOfItems>
+	<Item>
+		<ItemType>Display</ItemType>
+		<Display>Your Streaming device is unknown! Please register at www.besonic.com!</Display>
+	</Item>
+	<Item>
+		<ItemType>Dir</ItemType>
+		<Title>Demo playlists</Title>
+		<UrlDir>http://gatekeeper.my-noxon.net/RadioNative.php?service=1&node=playlist&token=215385555997023</UrlDir>
+		<NoAudioContent>true</NoAudioContent>
+		<UrlDirBackUp></UrlDirBackUp>
+		<BookmarkShow></BookmarkShow>
+	</Item>
+	<Item>
+		<ItemType>Station</ItemType>
+		<StationId></StationId>
+		<StationName>Ellen_Klinghammer - Mess - live *sample*</StationName>
+		<StationUrl>http://webservices.besonic.com/audio/00-1b-9e-22-e9-ec/124122.mp3</StationUrl>
+		<StationDesc></StationDesc>
+		<StationFormat></StationFormat>
+		<StationLocation></StationLocation>
+		<StationBandWidth></StationBandWidth>
+		<StationMime></StationMime>
+		<Bookmark>http://gatekeeper.my-noxon.net/RadioNative.php?service=10002&node=21cb40ef2acb0b15e2eea1c731de4472&token=08920a9358128a9</Bookmark>
+	</Item>
+</ListOfItems>
+

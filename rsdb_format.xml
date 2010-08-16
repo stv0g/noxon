@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<station_db version="2008-09-10T11:00:50Z" format_version="2.0" station_count="11337">
+	<database_info>
+		<format_version>2.0</format_version>
+		<name>vTuner</name>
+		<server_url>http://www.radio579.com/setupapp/bluewin/asp/rsdb/update.asp</server_url>
+		<service>PREMIUM</service>
+	</database_info>
+	<station_list>
+		<station>
+			<id>1</id>
+			<station_name size_limit="off">Last.fm Proxy</station_name>
+			<description>Just a Proxy for the Social Music Network Last.fm</description>
+			<bw>96</bw>
+			<url>http://87.230.33.74:2944/lastfm.mp3?pw=qU4rK5m1n1m4l&amp;user=steffenvogel</url>
+			<mime_type>m3u</mime_type>
+		</station>
+	</station_list>
+	<directory_list>
+		<dir name="Internet Radio" subdir_count="1" station_count="0" >
+			<dir name="Dir" subdir_count="1" station_count="0" >
+				<dir name="Subdir" subdir_count="0" station_count="1" >
+					<station>1</station>
+				</dir>
+			</dir>
+		</dir>
+	</directory_list>
+</station_db>

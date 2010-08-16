@@ -1,0 +1,33 @@
+--- main.py	2008-09-09 21:44:07.000000000 +0200
++++ main.py.new	2008-09-09 21:47:28.000000000 +0200
+@@ -8,6 +8,7 @@
+ import cgi
+ import os
+ import string
++import base64
+ 
+ import config
+ import lastfm
+@@ -112,6 +113,22 @@
+                 clientsock.close()
+             return
+ 
++	# Check for authentification
++	if not http.has_key("Authorization") or string.split(http["Authorization"], " ")[1] != base64.b64encode(self.username + ":" + self.password):
++	    cont = "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd\">\r\n<html>\r\n<head>\r\n<title>Error</title>\r\n<meat http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\">\r\n</head>\r\n<body>\r\n<h1>401 Unauthorised.</h1>\r\n</body>\r\n</html>\r\n"
++            print "Wrong or missing authentification"            
++	    try:
++                clientsock.sendall("HTTP/1.0 401 UNAUTHORIZED\r\n");
++                clientsock.sendall("Content-Type: text/html\r\n")
++		clientsock.sendall("WWW-Authenticate: Basic realm=\"Private Stream\"\r\n")
++                clientsock.sendall("Allow: GET\r\n")
++                clientsock.sendall("\r\n")
++                clientsock.sendall(cont)
++                clientsock.close()
++            except socket.error:
++                clientsock.close()
++            return
++
+         tmp = string.split(req[0][1], "?", 1)
+         station = tmp[0]
+         if len(tmp) > 1:

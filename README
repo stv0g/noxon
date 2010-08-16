@@ -1,0 +1,29 @@
+Here are the urls which i extracted out of the Noxon firmware:
+
+RadioNativeEntries
+RadioNative01 
+	RootName Podcasts 
+	RootUrl http://radio567.vtuner.com/setupapp/radio567/asp/BrowseXML/navXML.asp?gofile=S-ByLocation 
+	LoginUrl http://radio567.vtuner.com/setupapp/radio567/asp/BrowseXML/loginXML.asp?token=0 
+	RetrieveFavsURL http://radio567.vtuner.com/setupapp/radio567/asp/BrowseXML/FavXML.asp?empty=&sFavName=My%5F%5FFavorites
+
+RadioNative02 
+	RootName My NOXON 
+	RootUrl http://gatekeeper.my-noxon.net/RadioNative.php 
+	LoginUrl http://gatekeeper.my-noxon.net/RadioNativeLogin.php 
+	RetrieveFavsURL http://gatekeeper.my-noxon.net/RadioNativeFavorites.php
+
+RadioNative03 
+	RootName StarXed Services 
+	RootUrl http://starxed.homelinux.org/radionative-multi/index.xml 
+	LoginUrl http://noxonserver.de/RadioNativeLogin.php 
+	RetrieveFavsURL http://starxed.homelinux.org/radionative-multi/favs.php
+
+MultiRadioStationDB
+MRSDB01 
+	UserFriendlyName Internet Radio 
+	url0 http://www.radio579.com/setupapp/bluewin/asp/rsdb/update.asp 
+
+Here a sample url request to vtuner for the rsdb (mac and uid changed):
+
+http://www.radio579.com/setupapp/bluewin/asp/rsdb/update.asp?mac=############&uid=############################&ver=EMPTY&xml=2.0&mime=audio/mpeg-url&sw=24.6392&bl=6166&hw=158.0&up=13693&lang=ger&st=15167&rel=0

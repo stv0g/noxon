@@ -1,0 +1,1 @@
+SELECT nodes.name, nodes.type, tmptree.id, tmptree.level FROM (SELECT child.id, child.node_id, COUNT(*)-1 AS level FROM tree AS child, tree AS parent WHERE child.lft BETWEEN parent.lft AND parent.rgt GROUP BY child.lft ORDER BY child.lft) tmptree LEFT JOIN nodes ON nodes.id = tmptree.node_id;
